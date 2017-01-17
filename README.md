@@ -42,6 +42,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Places] (#places)
 - [Social Media] (#social-media)
 - [Source Control] (#source-control)
+- [Sports] (#sports)
 - [Transportation] (#transportation)
 - [URL Shorteners] (#url-shorteners)
 - [Weather] (#weather)
@@ -322,6 +323,9 @@ latitude/longitude, and text search based upon categories, address, city, provin
 - [Mercurial](https://www.mercurial-scm.org/wiki/MercurialApi) - Access to Mercurial’s API.
 - [Team Foundation Server](https://www.visualstudio.com/en-us/integrate/api/overview) - TFS APIs are based on REST, OAuth, Json and service hooks.
 - [Bitbucket](https://developer.atlassian.com/bitbucket/api/2/reference/) - Access to Bitbucket's API.
+
+### Sports 
+- [SuredBits](https://suredbits.com/api/) - Access to historical NFL and NBA information.
 
 ### Transportation
 - [Uber](https://developer.uber.com/) - Uber provides API for customizing trip experiences, requesting rides, powering logistics, creating bots and so much more.
